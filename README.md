@@ -1,5 +1,3 @@
-
-Repository for system design problems.
 # The System Design Repository
 
 ## Learn how to design large-scale systems
